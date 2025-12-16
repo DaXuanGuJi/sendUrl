@@ -1,1 +1,1 @@
-var sendExeUrl="http://[2408:8956:5010:2662:70d1:6554:9e58:58c1]/_github/book_file_server/";
+var sendExeUrl="http://[2408:8956:50:2a77:dc48:1b7f:5de1:2f32]/_github/book_file_server/";
